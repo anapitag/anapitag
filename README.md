@@ -76,7 +76,7 @@ que determinan en parte las acciones de una persona"</em> al igual que <em>"acci
 
  </thead></table>
  
-<p style="text-align:center;"><img src="https://pbs.twimg.com/media/D5LPXTpXoAM_4UI.jpg" width="400" alt="Foto 2" width="350"></p>
+<img src="https://pbs.twimg.com/media/D5LPXTpXoAM_4UI.jpg" width="400" alt="Foto 2" width="350" style="float:left">
 
  
 
