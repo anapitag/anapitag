@@ -132,7 +132,7 @@ el triple!!</li>
  <ul>
   <li><a href="#import">Importancia</a></li>
   <li><a href="#tipos">Tipos motivación</a></li>
-  <li><a href="#incentivos">>Incentivos</a></li>
+  <li><a href="#incentivos">Incentivos</a></li>
   <li><a href="#descanso">Tips para el descanso</a></li>
   
   
