@@ -37,7 +37,7 @@ que determinan en parte las acciones de una persona"</em> al igual que <em>"acci
  
  <a href="https://dle.rae.es/motivaci%C3%B3n?m=form"> Entrada de motivación en la RAE</a>
  
- <h2>Pero...¿por qué es importante la motivación?  </h2>
+ <h2 id="import">Pero...¿por qué es importante la motivación?  </h2>
  <p>En ocasiones, por más que contemos con los mejores libros, profesores y materiales,
  esto no es suficiente para que se muestre interés por aprender y trabajar
  duro.</p>
@@ -46,7 +46,7 @@ que determinan en parte las acciones de una persona"</em> al igual que <em>"acci
  Asimismo, desempeña un papel fundamental en la productividad, calidad y rapidez dentro de
  cualquier área de vida en la que nos encontremos, ya sea deporte, estudios, trabajo...</p>
  
- <h2>Tipos de motivación</h2>
+ <h2 id="tipos">Tipos de motivación</h2>
  <p>Es importante saber que la existen dos tipos: intínseca y extrinseca. La combinación de
  ambas se deriva en varios subgrupos como la motivación personal, académica...</p>
  
@@ -80,7 +80,7 @@ que determinan en parte las acciones de una persona"</em> al igual que <em>"acci
 
  
 
- <h2> ¿Cómo podemos incentivarnos?</h2>
+ <h2 id="incentivos"> ¿Cómo podemos incentivarnos?</h2>
  <p> El deporte, es quizás el mecanismo más conocido por todos
  para liberar endorfinas y reducir el estrés además de evadirse, pero hay formas
  de hacer que el esfuerzo no sea una carga tan grande: </p>
@@ -113,13 +113,13 @@ el triple!!</li>
  </ul>
  
  
- <h2> Tips para dormir y descanasar mejor </h2>
+ <h2 id="descanso"> Tips para dormir y descanasar mejor </h2>
  
  <p style="text-align:left;"><img src="https://img.freepik.com/foto-gratis/retrato-hermosa-muj
  er-joven-durmiendo-cama_231208-13887.jpg?w=2000" width="400"></p>
  <p>La clave de todo, como ya dije, está en dormir como mínimo 8h diarias
-  para mantener la motivación y el buen estsado de ánimo. A continueción aportare algunos
-   consejos para el buen descanso </p>
+  para mantener la motivación y el buen estsado de ánimo. A continuación aportare algunos
+   consejos para el buen descanso: </p>
   <ul> <li> Elimina las pantallas media hora antes de acostarte</li>
   <li> Cena ligero evitando alimentos copiosos</li>
   <li>Evita situaciones de estrés  </li>
@@ -128,8 +128,15 @@ el triple!!</li>
   </ul>
  
  
- 
- 
+  <h2>RECAPITULACIÓN </h2>
+ <ul>
+  <li><a href="#import">Importancia</a></li>
+  <li><a href="#tipos">Tipos motivación</a></li>
+  <li><a href="#incentivos">>Incentivos</a></li>
+  <li><a href="#descanso">Tips para el descanso</a></li>
+  
+  
+  </ul>
  <h2>WEBGRAFÍA</h2>
  <a href="https://uniscopio.com/blog/consejos-motivacion-para-estudiar/"> Página 1 </a>
  
